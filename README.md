@@ -1,4 +1,6 @@
-### Hi there 👋
+Kevin Murphy's github page.
+
+For details,  [see my UBC web page](https://www.cs.ubc.ca/~murphyk/).
 
 <!--
 **murphyk/murphyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
